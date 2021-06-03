@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sad and dolefull lamentation of Origen after his fall: set up as a seamark to make others beware of doing the least evil, that good (even the greatest good) may come of it.</title>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27656</idno><idno type="EEBO-CITATION">99888169</idno>
+  <idno type="VID">194367</idno>
+  <idno type="EEBO-PROQUEST">2240890988</idno>
+  
+            <idno type="STC">Wing O430</idno>
+            <idno type="STC">ESTC R229126</idno>
+            <idno type="PROQUEST">ocm99888169</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888169e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 194367)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B3:2[122b-126])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sad and dolefull lamentation of Origen after his fall: set up as a seamark to make others beware of doing the least evil, that good (even the greatest good) may come of it.</title>
+               </titleStmt>
+               <extent>p. 9-16.   </extent>
+               <publicationStmt>
+                  <publisher>printed by D.M., and are to be given at James Crump's, in Little Bartholomews Well-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"An imperfect fragment, wanting all before p. 9." Cf. British Library.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained; cropped at head.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Origen. --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:194367:1"/>
+            <pb n="9" facs="tcp:194367:1"/>
+            <head>The sad and dolefull Lamentation of <hi>ORIGEN</hi> after his <hi>Fall:</hi> Set up as a <hi>Sea<g ref="char:EOLhyphen"/>mark</hi> to make others beware of doing the <hi>least Evil,</hi> that good (even the <hi>greatest Good</hi>) may come of it.</head>
+            <div type="introduction">
+               <p>BEing much affected with this Example of <hi>Origen,</hi> as deeming it ex<g ref="char:EOLhyphen"/>ceeding rare, remarkable, and forcible to make others beware: I have much desired, that some <hi>Stationer</hi> would print it with some other small piece, for the common good; and thereupon I engaged first one, and after that another, who were to print <hi>Spira,</hi> that they would adde this of <hi>Ori<g ref="char:EOLhyphen"/>gen</hi> unto it, leaving my Copy with them; but neither of them kept their promise, because forsooth, that of <hi>Spira</hi> alone would sell for six pence, and both together for no more: A solid reason! while a little gain shall be more stood upon, then the <hi>glory of God,</hi> and <hi>good of Souls!</hi> Yet this is the <hi>worlds method,</hi> and as <hi>common,</hi> as <hi>cursed</hi> and <hi>barbarous.</hi> All which considered, none of them (I hope) can justly blame me for filling up the <hi>void pages of this Sheet</hi> with that which may pleasure thousands. For I dare say, there is not one <hi>Reader</hi> of fourty, that have formerly met with the same in any <hi>Author.</hi>
+               </p>
+            </div>
+            <div type="story">
+               <p>
+                  <seg rend="decorInit">I</seg>N the dayes of <hi>Severus</hi> lived <hi>Origen,</hi> a man famous for Learning, and in mental excel<g ref="char:EOLhyphen"/>lencies most rare and singular: He was bold and fervent under the Reign of <hi>Severus, Maximinus,</hi> and <hi>Decius,</hi> in assisting, com<g ref="char:EOLhyphen"/>forting, exhorting and cherishing the Martyrs that were imprisoned, with such danger of his own life, that had not God wonderfully protected him, he had been stoned to death many times of the heathen multitude; for such great concourse of men and women went daily to his house to be
+<pb n="10" facs="tcp:194367:2"/> Catechized and instructed in the Christian Faith by him, that Souldiers were hired of purpose to defend the place where he taught them.</p>
+               <p>Again, such search sometime was set for him, that nei<g ref="char:EOLhyphen"/>ther shifting of place, nor Countrey could hardly serve him. In which laborious travels and affairs of the Church, in teaching, writing, confuting, exhorting and expounding, he continued about fifty two years, unto the times of <hi>Deci<g ref="char:EOLhyphen"/>us</hi> and <hi>Gallus;</hi> divers and great persecutions he sustained, but especially under <hi>Decius:</hi> In his body he sustained Bonds and Torments, Rackings with Bars of Iron, stinking and dark Dungeons, besides terrible threats of Death and Burn<g ref="char:EOLhyphen"/>ing; all which he manfully and constantly suffered for Christ: Yet at length (like an Isicle) he that could en<g ref="char:EOLhyphen"/>dure the rough Northern Wind of Persecution well enough, melted with the heat of the Sun (sweet Allurements and fair promises of Satan and his Adherents; his own flesh also proving a treacherous Sollicitor:) For in the end, being brought by the Idolatrous Infidels to an Al<g ref="char:EOLhyphen"/>tar of theirs, he shamefully condescended to offer In<g ref="char:EOLhyphen"/>cense thereupon, in manner as followeth, by his own Con<g ref="char:EOLhyphen"/>fession.</p>
+               <p>When (saith he) I sought to allure and win these Ido<g ref="char:EOLhyphen"/>laters by cunning means to the knowledge of the Son of God, after much sifting, they promised me (unhappy man!) that they would by crafty conveyances avoid the subtilty of Satan, and be baptized: But being ignorant and unskilfull in their divers cunning sleights, they (together with the Devil) undermined my simplicity, and Satan turn<g ref="char:EOLhyphen"/>ing himself into an Angel of Light, reasoned with me that same Night, saying: <hi>When thou art up in the Morning, go on and perswade them, and bring them unto God; and in case they demand ought of thee, so they will hearken and conde<g ref="char:EOLhyphen"/>scend unto thee, do what thou shalt think necessary, without staggering at all at the matter, to the end many may be sa<g ref="char:EOLhyphen"/>ved.</hi> And again, the Devil going before to prepare the way,
+<pb n="11" facs="tcp:194367:2"/> whetted their Wits to devise mischief against me, silly wretch, and sowed in their minds hypocrisie, dissimulation, and deceit. But I, O unhappy creature, skipping out of my bed at the dawning of the day, could not finish my wonted Devotions, neither accomplish my usual Prayer: But wishing that all men might be saved, and come to the knowledge of the Truth, I folded and wrapped my self in the snares of the Devil. I got me unto the wicked Assem<g ref="char:EOLhyphen"/>bly, I required of them to perform the Covenant made the night before; and coming (as I thought) unto the Baptism, I (silly soul) not knowing of any thing, an<g ref="char:EOLhyphen"/>swered but in a word, and became reproachfully defamed. I spake without malice, yet felt I their inveterate and dead<g ref="char:EOLhyphen"/>ly spite; for instantly the Devil raised an Assembly about me, who carried me to an Altar of theirs; where a foul fil<g ref="char:EOLhyphen"/>thy <hi>Ethiopian</hi> being appointed, this option or choise was offered unto me; namely, <hi>Whether I would sacrifice to the Idol,</hi> or <hi>have my body polluted with that soul and ugly E<g ref="char:EOLhyphen"/>thiopian?</hi> In which strait, I having ever kept my Chastity undefiled, and much abhorring that filthy villany to be done to my body, brake out into many moans, lamentations, and cries against both; Yet (O wretched man that I am) at length yielded rather to Sacrifice. Whereupon the Judge putting Incense into my hand, caused me to set it to the fire upon the Altar; for the which impiety, I was delivered both from that, and Martyrdome. But upon my discharge, the Devil raised a marvellous out-cry in the City, in pronouncing against me that just, and yet unjust sentence, <hi>Origen hath sacrificed.</hi>
+               </p>
+               <p>Whereupon he was Excommunicated out of the Church and driven with shame and sorrow out of <hi>Alexandr<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a,</hi> and going to <hi>Jerusalem,</hi> and being there among the Con<g ref="char:EOLhyphen"/>gregation, was requested by the Priests to make some Ex<g ref="char:EOLhyphen"/>hortation in the Church to the people, the which he refused to do for a great while; but at length being constrained through importunity, he rose up, and turning the Book as
+<pb n="12" facs="tcp:194367:3"/> though he would have expounded some place of the Scrip<g ref="char:EOLhyphen"/>ture, he happened upon, and read onely the 16 <hi>verse</hi> of the 50 <hi>Psalm▪</hi> where he found it thus written; <hi>But God said unto the sinner, What hast thou to do to declare my Sta<g ref="char:EOLhyphen"/>tutes, or that thou shouldest take my Covenant into thy mouth? seeing thou hatest instruction, and castest my words behind thee?</hi> Which being read, he shut the Book, and sate down weeping and wailing, the whole Congregation weeping and lamenting with him, he said unto the Church, Wo is me: my Mother which brought me forth as an high and lofty Turret, yet suddenly I am turned down to the ground; as a fruitfull tree, yet quickly withered; as a burning light, yet forthwith darkened; as a running fountain, yet by and by dried up. Wo is me that ever I was decked with all gifts and graces, and now seem pittifully to be deprived of all. The Lord hath made and ingrafted me a fruitfull Vine, but instead of pleasant Clusters of Grapes, I brought forth pricking Thorns. Let the well-springs of tears be stirred up, and let my Cheeks be watered; let them flow upon the earth, and moisten it, for that I am soaked in sin, and bound in mine iniquity; every creature sorroweth, and may well pity my case; for that I was wont heretofore to pour out my Prayers unto God for them all, but now there is no salve for me. Where is he that went down from <hi>Je<g ref="char:EOLhyphen"/>rusalem</hi> to <hi>Jerico,</hi> who also salved and cured him that was wounded of the Thieves? When as I went about to enligh<g ref="char:EOLhyphen"/>ten others, I darkened my self; when I endeavoured to bring others from death to life, I brought my self from life to death.</p>
+               <p>O blinded heart! how didst thou not remember? O foolish mind! how didst thou not bethink thy self? O wit<g ref="char:EOLhyphen"/>less brain! how didst thou not understand? O thou Sense of Understanding! where didst thou sleep? But it was the Devil which provoked thee to slumber and sleep, and in the end, to slay thy unhappy and wretched soul: He bound my power and might, and wounded me. I bewail sometime
+<pb n="13" facs="tcp:194367:3"/> the fall of <hi>Sampson,</hi> but now have I faln far worse my self. I bewailed heretofore the fall of <hi>Solomon,</hi> yet now am I faln far worse my self. I have bewailed heretofore the estate of all sinners, yet now am I plunged worse then them all. <hi>Sampson</hi> had the hair of his head clipt off, but the Crown of Glory is faln off my head. <hi>Sampson</hi> lost the car<g ref="char:EOLhyphen"/>nal eyes of his body, but my spiritual Eyes are digged out: Even as he was severed from the <hi>Israelites,</hi> and held cap<g ref="char:EOLhyphen"/>tive among Idolaters, so I have separated my self from the Church of God, and am joyned with evil spirits. Alas! my Church liveth, yet am I a Widower. Alas! my Sons be alive, yet am I barren. Alas! O Spirit which camest heretofore down upon me, why hast thou forsaken me? O thou Devil, what hast thou done unto me? O Satan, how hast thou wounded me? It was the wiliness of a Woman that brought <hi>Sampson</hi> to his confusion: but it was my own <hi>Tongue</hi> that brought me to this sinfull fall. Alas! every Creature rejoyceth, and I alone forsaken and sorrowfull: Bewail him that is bereaved of the Holy Ghost; bewail me that am thrust out of the Wedding-Chamber of Christ; bewail me that am tormented with the prick of Conscience; for now it behoveth me to shed infinite tears for my great sin. Who knoweth whether the Lord will have mercy up<g ref="char:EOLhyphen"/>on me? whether he will pity my fall? whether he will be moved with my desolation? whether he will have respect unto my humility, and incline his tender compassion to<g ref="char:EOLhyphen"/>wards me? Now let the Elders mourn▪ for that the staff whereto they leaned is broken. Now let the young men mourn, for that their School-Master is fallen. Now let the Virgins mourn, for that the advancer of virginity is defiled. Now let the Priests mourn, for that their Patron and De<g ref="char:EOLhyphen"/>fender is shamefully faln from the Faith. Assist me Holy Spirit, and give me Grace to repent; Let the Fountain of tears be opened, and gush out into streams, to see if that peradventure I may have the Grace worthily and throughly to repent: Why hast thou shut my mouth
+<pb n="14" facs="tcp:194367:4"/> by the holy Prophet <hi>David?</hi> Am I the first that have sinned? Or am I the first that fell? Why hast thou for<g ref="char:EOLhyphen"/>saken me, and banished me from among the Saints, and astonied me to preach thy Laws? Saint <hi>Peter,</hi> the Pil<g ref="char:EOLhyphen"/>lar of Truth, after his fall, wiped away that bitter passion of forswearing his Master, with mournfull tears, and was purged from the venome of the Serpent in a short time. Restore me again to my former health of salvation: O all ye which behold my wounds, tremble for fear, least God forsake you, and you fall into the like crime. O woe is me, that I am severed from among the company of the blessed Assemblies: I have my death's wound; I see the Clouds in the Skie shadowing the Light from me, and the Sun hiding from me his bright beams. O Satan, what Mischief hast thou wrought unto me? How hast thou pierced my breast with thy poysoned Dart? Thinkest thou that my Ruine will avail thee any thing at all? Thinkest thou to procure unto thy self ease and rest, whiles that I am grievously tormented? But how can I speak, when as my <hi>Tongue</hi> is tied? My Lips dare not once move, my Throat is dammed up, all my senses and in<g ref="char:EOLhyphen"/>struments are polluted with iniquity. But I will proceed on; and first, I will fall to the ground on my bare knees, and make mine humble supplication unto all the faith<g ref="char:EOLhyphen"/>full and blessed of God, both great and small, that they will help me, silly wretch, which by reason of the super<g ref="char:EOLhyphen"/>fluity of my sin, dare not crave ought at the hands of God: O ye Saints and blessed of God, with waterish eyes and wet cheeks soaked in dolour and pain, I beseech you to fall down before the Mercy-seat of God for me mise<g ref="char:EOLhyphen"/>rable sinner: Wo is me, that am compassed thus on every side, and shut up in my sin: The Lord hath made me an Angel, I have made my self a Devil: I was as a skilfull Lawyer, yet am I overthrown by my unrighteous deal<g ref="char:EOLhyphen"/>ing: I was an heir of the Kingdome of God, but now am an inheritor of the Kingdome of the Devil: I am choa<g ref="char:EOLhyphen"/>ked
+<pb n="15" facs="tcp:194367:4"/> with infamous doings; but who will minister moisture unto the Temples of my Head? and who will give streams of teares unto my Eyes, that I may bewail my self in this my sorrowful plight? O all ye my friends, tender my case, pity my person, in that I am dangerously wounded, in that I am a scorn to all men; for having trodden under foot the Seal and Cognizance of my Profession, and joyned in league with the Devil. In that I am rejected and cast away from the face of God; it is for my lewd life that I am thus pol<g ref="char:EOLhyphen"/>luted. I see the Spider over my seat building his Cobweb: There is no sorrow like to my sorrow; there is no affliction that exceedeth my affliction; there is no bitterness that passeth my bitterness; there is no lamentation more lamen<g ref="char:EOLhyphen"/>table then mine; neither is there any sin greater then my sin, for there is no salve for me. Where is that good She<g ref="char:EOLhyphen"/>pheard of Souls? I have broken my vow I made in Bap<g ref="char:EOLhyphen"/>tism. Alas that ever I was Doctor, and now occupy not the room of a Disciple! Thou knowest, O Lord, that I fell against my Will: Who is able to signifie unto me when again I shall be coupled and made Companion of the Saints of God? O! I am not worthy to hear the message of them that bring such tidings; for the threats of the Prophets and Evangelists only belong unto me. O the bo<g ref="char:EOLhyphen"/>some of <hi>Abraham,</hi> the which I am deprived of! I am be<g ref="char:EOLhyphen"/>come partaker with the Rich Man in his Condemnation, and scorching flames in the horrible pit. I am tormented with the prick of Conscience; I do fear the dreadful day of Judgment, for that I am damn'd for ever. I do fear the punishment, for that it is eternal. I will prostrate my self before the Threshold and Porches of the Church, that I may intreat all people, both small and great, and will say unto them, Trample and tread me under foot, which am the foolish Salt, the unsavoury Salt; tread me which have no taste nor relish of God. Wo is me that I fell most dan<g ref="char:EOLhyphen"/>gerously, and cannot rise again. Assist me, O holy Spirit, and give me Grace to repent, and wipe out of the Book
+<pb n="16" facs="tcp:194367:5"/> of the Conscience the Accusation printed against me: Yea, do thou, O Lord, think upon me, though I am of polluted lips, and have uttered lewd things with my Tongue; and accept thou Repentance, Affliction, and bitter Tears, the dolour of my heart, and the heaviness of my soul; and have mercy upon me, and raise me up from out of the mire of Corruption and Filth, for the puddle hath even choaked me up. Wo is me, that sometime was a Pearl glistring in the golden garland of Glory, but now thrown into the dust, and trodden in the mire of contempt! Wo is me that the Salt of God now lieth on the dunghil! O how many great streams of Lamentation and tears will wash away my sin, and purge mine humble heart? I will turn my talk to God: Why hast thou lift me up, and cast me down? I had not committed this impiety, unless thou hadst withdrawn thy hand from me. <hi>David</hi> sinned too bad in thy sight, yet after his Repentance thou receivedst him to mercy. Grant that I may not become an habitation for Divels, but that I may trample under foot the Divel, which hath trod upon me. I have fallen and am bruised, there is no health in me. <hi>Why hast thou, O Lord, broken down my hedge and strong holds. The wild Boar out of the wood hath destroyed me, and the wild Beasts of the field hath eaten me up. Rid me, O Lord, from the roaring Lion, that the Bill of sin written a<g ref="char:EOLhyphen"/>gainst me may be blotted out; that I may cease from my Lamentation in the evening, and receive joy in the morn<g ref="char:EOLhyphen"/>ing. Let my sackcloth be rent in sunder, and gird me wth joy and gladness.</hi>
+               </p>
+               <p>Thus in his bitter affliction and grief of mind, he uttered these things confusedly and out of order.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. M.</hi> and are to be given at <hi>James Crump</hi>'s, in Little <hi>Bartholomews Well-yard.</hi> 1661.</p>
+            <pb facs="tcp:194367:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
